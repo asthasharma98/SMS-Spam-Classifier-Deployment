@@ -1,1 +1,1 @@
-# sms-spam-or-ham-classifier-deployment
+# SMS-Spam-Classifier
