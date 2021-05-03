@@ -8,7 +8,7 @@ A simple Machine learning and `NLP` based Web Application which classify the giv
   **SMS Spam Classifier Web Application** : *[https://sms-spam-predictor-nlp.herokuapp.com/](https://sms-spam-predictor-nlp.herokuapp.com/)*
   
 - To get the Code for Exploratory data analysis/visualisations, Text-Processing, different algorithms used and the model evaluation, click on the link mentioned below :
-  **Link of jupyter notebook -** *[https://github.com/asthasharma98/Data-Science/tree/main/SMS-Spam-Classifier](https://github.com/asthasharma98/Data-Science/tree/main/SMS-Spam-Classifier)*
+  **Link of jupyter notebook -** *[https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/SMS%20Spam%20Classifier%20.ipynb](https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/SMS%20Spam%20Classifier%20.ipynb)*
 
  ### Technical Aspect
  
