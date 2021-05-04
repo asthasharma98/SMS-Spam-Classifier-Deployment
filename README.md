@@ -10,7 +10,7 @@ A simple Machine learning and `NLP` based Web Application which classify the giv
 - To get the Code for Exploratory data analysis/visualisations, Text-Processing, different algorithms used and the model evaluation, click on the link mentioned below :
   **Link of jupyter notebook -** *[https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/SMS%20Spam%20Classifier%20.ipynb](https://github.com/asthasharma98/Data-Science/blob/main/SMS-Spam-Classifier/SMS%20Spam%20Classifier%20.ipynb)*
   
-**A Demo of the Web App : **
+**A Demo of the Web App :**
 
 ![Spam Messages Detector](https://github.com/asthasharma98/SMS-Spam-Classifier-Deployment/blob/master/Readme_resources/Spam.gif)
 
