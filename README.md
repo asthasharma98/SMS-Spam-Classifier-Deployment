@@ -73,8 +73,8 @@ next step would be to follow the instruction given on [Heroku Documentation](htt
 
 ### Future work 
 
-- improve model performance.
-- try to collect more samples of text messages with the help of users input.
+- Improve model performance.
+- Try to collect more samples of text messages with the help of users input.
 
 
 
