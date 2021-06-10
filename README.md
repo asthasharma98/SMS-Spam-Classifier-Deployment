@@ -2,7 +2,7 @@
 
 ### Overview
 
-A simple Machine learning and `NLP` based Web Application which classify the given messages as Spam or Ham(Not Spam) build using `Flask` and deployed on `Heroku`.
+A simple Machine learning and `NLP` based Web Application which classify the given messages as Spam or Ham(Not Spam) built using `Flask` and deployed on `Heroku`.
 
 - To view the Deployed Application, click on the link given below : 
   **SMS Spam Classifier Web Application** : *[https://sms-spam-predictor-nlp.herokuapp.com/](https://sms-spam-predictor-nlp.herokuapp.com/)*
